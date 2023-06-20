@@ -7,9 +7,6 @@ ideas = {
 	
 		sour_loser = {
 		
-			modifier = {
-		       justify_war_goal_time 1300
-		    }
 			allowed = {
 				always = no
 			}

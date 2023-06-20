@@ -11,11 +11,6 @@ ideas = {
 
 	country= {
 	
-	    no_justifications = {
-		modifier = {
-		justify_war_goal_time 1300
-		}
-	}
 
 		SOV_second_five_year_plan_fake_1936_ns = { #Only used for 1936 bookmark (dynamic modifiers don't show up there)
 			name = SOV_second_five_year_plan_dynamic_modifier
@@ -116,7 +111,8 @@ ideas = {
 				production_speed_arms_factory_factor = 0.1
 				production_speed_industrial_complex_factor = 0.05
 			}
-			}
+			
+			
 			rule = {
 				can_create_factions = yes
 			}

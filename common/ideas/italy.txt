@@ -553,11 +553,6 @@ ideas = {
 				justify_war_goal_time = -0.05
 			}
 		}
-        no_justifications = {
-		modifier = {
-		justify_war_goal_time 1300
-		}
-	}
 		ITA_german_millitary_cooperation_focus = {
 
 			picture = german_advisors

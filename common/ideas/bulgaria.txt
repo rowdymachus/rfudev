@@ -20,11 +20,6 @@ ideas = {
 
 
 	country = { #DLC
-	    no_justifications = {
-		modifier = {
-		justify_war_goal_time 1300
-		}
-	}
 
 		BUL_army_restrictions = {
 			picture = tfv_can_conscription_crisis

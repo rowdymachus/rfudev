@@ -2,11 +2,6 @@ ideas = {
 
 	country = {
 	    
-		no_justifications = {
-		modifier = {
-		justify_war_goal_time 1300
-		}
-	}
 	
 	
 		state_shintoism = {
