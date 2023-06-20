@@ -1,0 +1,34 @@
+focus_tree = {
+	id = was_focus
+	
+	country = {
+		factor = 1
+		
+		modifier = {
+			add = 1
+			tag = WAS
+			
+		}
+	}
+	focus = {
+        id = WAS_HOCALI_through_KATLIAM
+		text = hocali_katliami
+        icon = GFX_goal_support_democracy
+        x = 3
+        y = 1
+        cost = 0.2
+		
+				ai_will_do = {
+			factor = 100
+		}
+
+        available_if_capitulated = yes
+        search_filters = {FOCUS_FILTER_STABILITY FOCUS_FILTER_POLITICAL}
+        completion_reward = {
+            add_stability = -100
+			add_ideas = { SWI_increased_defense_budget }
+            
+            
+            hidden_effect = {
+        }
+    }
