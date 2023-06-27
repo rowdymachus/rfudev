@@ -47,7 +47,6 @@ bookmarks = {
 				ENG_colonial_elite
 			}
 			focuses = {
-				ENG_war_with_japan
 				bomber_command_focus
 				maud_focus
 			}
@@ -124,11 +123,6 @@ bookmarks = {
 				CAN_great_depression_1
 				CAN_conscription_crisis
 			}
-			focuses = {
-				CAN_skewer_the_eagle
-				CAN_north_american_alliance
-				CAN_join_comintern
-			}
 		}
 		"AST"={
 			minor = yes
@@ -166,8 +160,6 @@ bookmarks = {
 			}
 			focuses = {
 				SAF_secure_interests_in_africa
-				SAF_support_the_german_coup
-				SAF_anti_colonialist_crusade
 			}
 		}
 		"RAJ"={
@@ -179,7 +171,6 @@ bookmarks = {
 				RAJ_princely_states
 			}
 			focuses = {
-				RAJ_all_india_forward_bloc
 				RAJ_indian_gurkhas
 				RAJ_the_smiling_buddha
 			}
@@ -194,7 +185,6 @@ bookmarks = {
 				HUN_strengthen_fascists
 			}
 			focuses = {
-				HUN_elect_a_king
 				HUN_secret_rearmament
 				HUN_renounce_the_treaty_of_trianon
 			}
@@ -210,7 +200,6 @@ bookmarks = {
 				ROM_iron_guard
 			}
 			focuses = {
-				ROM_balkans_dominance
 				ROM_institute_royal_dictatorship
 				ROM_preserve_greater_romania
 			}
@@ -406,8 +395,6 @@ bookmarks = {
 			}
 			focuses = {
 				BUL_the_third_bulgarian_empire
-				BUL_the_return_of_ferdinand_i
-				BUL_bulgaria_on_the_three_seas
 			}
 		}
 
